@@ -1,0 +1,34 @@
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Тортики пр5\Тортики пр5\bin\Debug\net6.0\Тортики пр5.exe
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Тортики пр5\Тортики пр5\bin\Debug\net6.0\Тортики пр5.deps.json
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Тортики пр5\Тортики пр5\bin\Debug\net6.0\Тортики пр5.runtimeconfig.json
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Тортики пр5\Тортики пр5\bin\Debug\net6.0\Тортики пр5.dll
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Тортики пр5\Тортики пр5\bin\Debug\net6.0\Тортики пр5.pdb
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Тортики пр5\Тортики пр5\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Тортики пр5\Тортики пр5\obj\Debug\net6.0\Тортики пр5.csproj.AssemblyReference.cache
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Тортики пр5\Тортики пр5\obj\Debug\net6.0\Тортики пр5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Тортики пр5\Тортики пр5\obj\Debug\net6.0\Тортики пр5.AssemblyInfoInputs.cache
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Тортики пр5\Тортики пр5\obj\Debug\net6.0\Тортики пр5.AssemblyInfo.cs
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Тортики пр5\Тортики пр5\obj\Debug\net6.0\Тортики пр5.csproj.CoreCompileInputs.cache
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Тортики пр5\Тортики пр5\obj\Debug\net6.0\Тортики пр5.csproj.CopyComplete
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Тортики пр5\Тортики пр5\obj\Debug\net6.0\Тортики пр5.dll
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Тортики пр5\Тортики пр5\obj\Debug\net6.0\refint\Тортики пр5.dll
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Тортики пр5\Тортики пр5\obj\Debug\net6.0\Тортики пр5.pdb
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Тортики пр5\Тортики пр5\obj\Debug\net6.0\Тортики пр5.genruntimeconfig.cache
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Тортики пр5\Тортики пр5\obj\Debug\net6.0\ref\Тортики пр5.dll
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Тортики пр5\Тортики пр5\bin\Debug\net6.0\Тортики пр5.exe
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Тортики пр5\Тортики пр5\bin\Debug\net6.0\Тортики пр5.deps.json
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Тортики пр5\Тортики пр5\bin\Debug\net6.0\Тортики пр5.runtimeconfig.json
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Тортики пр5\Тортики пр5\bin\Debug\net6.0\Тортики пр5.dll
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Тортики пр5\Тортики пр5\bin\Debug\net6.0\Тортики пр5.pdb
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Тортики пр5\Тортики пр5\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Тортики пр5\Тортики пр5\obj\Debug\net6.0\Тортики пр5.csproj.AssemblyReference.cache
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Тортики пр5\Тортики пр5\obj\Debug\net6.0\Тортики пр5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Тортики пр5\Тортики пр5\obj\Debug\net6.0\Тортики пр5.AssemblyInfoInputs.cache
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Тортики пр5\Тортики пр5\obj\Debug\net6.0\Тортики пр5.AssemblyInfo.cs
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Тортики пр5\Тортики пр5\obj\Debug\net6.0\Тортики пр5.csproj.CoreCompileInputs.cache
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Тортики пр5\Тортики пр5\obj\Debug\net6.0\Тортики пр5.csproj.CopyComplete
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Тортики пр5\Тортики пр5\obj\Debug\net6.0\Тортики пр5.dll
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Тортики пр5\Тортики пр5\obj\Debug\net6.0\refint\Тортики пр5.dll
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Тортики пр5\Тортики пр5\obj\Debug\net6.0\Тортики пр5.pdb
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Тортики пр5\Тортики пр5\obj\Debug\net6.0\Тортики пр5.genruntimeconfig.cache
+C:\Users\matve\OneDrive\Документы\Си шарп\Технарь\Практосы\Для пересдачи\Тортики пр5\Тортики пр5\obj\Debug\net6.0\ref\Тортики пр5.dll
